@@ -12,9 +12,9 @@ namespace DatabaseProject
         {
             Console.WindowWidth = 180;
             //FillTable();
-            //GetTen();
+            GetTen();
             //DeleteRecord();
-            UpdateRecord();
+            //UpdateRecord();
 
         }
 
